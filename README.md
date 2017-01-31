@@ -1,2 +1,4 @@
 # react-restaurant
-ReactJS, Single Page Application for restaurant business
+Single Page Application for restaurant business
+
+React.js, Router, Redux, Bootstrap v4 (SCSS)
