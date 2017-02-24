@@ -1,4 +1,4 @@
 # react-restaurant
 Single Page Application for restaurant business
 
-React/Redux, Webpack, Bundle, Bootstrap v4 (SCSS)
+React/Redux, ES6, Webpack, Bootstrap v4 (SCSS)
