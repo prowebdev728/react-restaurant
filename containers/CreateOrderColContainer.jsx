@@ -18,7 +18,6 @@ function mapStateToProps(state) {
 
 
 
-
   const populatedPlaylists = _.map(playlists, (playlist) => {
     return populatePlaylistFromState(Object.assign({}, playlist), state)
   })
