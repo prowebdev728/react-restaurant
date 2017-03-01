@@ -16,7 +16,6 @@ function mapStateToProps(state) {
 
   let addresses = _.sortBy(_.values(state.addresses), ['created_at']).reverse()
 
-
   const populatedPlaylists = _.map(playlists, (playlist) => {
     return populatePlaylistFromState(Object.assign({}, playlist), state)
   })
